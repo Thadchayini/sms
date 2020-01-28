@@ -1,0 +1,11 @@
+.table1
+{
+    width:25%;
+    padding-left: 50px;
+    
+}
+.table1 tr,th,td
+{
+    padding: 10px;
+}
+
